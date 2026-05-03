@@ -50,6 +50,12 @@
                     <p> Yazılım geliştirme, web tasarımı ve yeni teknolojiler üzerine çalışarak Bilgisayar Mühendisliği alanında kendimi geliştirmek istiyorum.
                         Yeni projeler üzerine çalışarak deneyim kazanmayı ve bu alanda kendimi sektöre hazırlamayı hedefliyorum.
                     </p>
+        <section class="mt-4">
+                <p>Web Teknolojileri dersi kapsamında geliştirdiğim projeme
+                <a href="https://github.com/eceturgut0/Web-Teknolojileri-Projesi" 
+                target="_blank">buradan ulaşabilirsiniz.</a>
+                </p>
+        </section>
                 </article>
 
                 <aside class="col-md-4 text-center">
