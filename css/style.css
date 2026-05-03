@@ -1,0 +1,150 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: linear-gradient(to right, #7ba1c6, #5a8dbd);
+    color: #0d335a;
+}
+
+h1 {
+    font-size: 2.2rem;
+    color: #031323;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 2rem;
+    color:#031323;
+    font-weight: 600;
+    border-bottom: 2px solid #031323;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+
+h3 {
+    font-size: 1.4rem;
+    color:#031323;
+    font-weight: 600;
+}
+
+p {
+    font-size: 1rem;
+    color :#0d335a;
+    line-height: 1.5;
+}
+
+.navbar {
+    backdrop-filter: blur(10px);
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color:#020a12 !important; 
+}
+
+section {
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+#hakkimda img {
+    width: 100%;
+    max-width: 260px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #031323;
+}
+
+.card {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+main a:hover{
+    color: #0d335a;
+}
+
+.form-control:focus,
+.form-select:focus {
+    border-color: #0d6efd;
+    box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+}
+
+.btn {
+    border-radius: 10px;
+    transition: all 0.2s ease;
+}
+
+.btn:hover {
+    transform: scale(1.03);
+}
+
+footer {
+    margin-top: 40px;
+}
+ 
+.slider-img {
+    height: 450px;
+    object-fit: cover;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 1.6rem;
+    }
+
+    h3 {
+        font-size: 1.2rem;
+    }
+
+    #hakkimda img {
+        max-width: 200px;
+        margin-top: 20px;
+    }
+
+    section {
+        padding: 20px;
+    }
+
+    .slider-img {
+        height: 250px;
+    }
+}

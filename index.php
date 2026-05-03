@@ -39,7 +39,7 @@
         <section id="hakkimda" class="mb-5">
             <div class="row align-items-center">
                 <article class="col-md-8">
-                    <h1 class="display-4">Merhaba, Ben Ece TURGUT</h1>
+                    <h1 class="display-5">Merhaba, Ben Ece TURGUT</h1>
                     
                     <p class="lead"> Sakarya Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim. </p>
                     <p>
@@ -120,5 +120,6 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>
