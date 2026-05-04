@@ -88,3 +88,21 @@ if (document.getElementById("iletisimUygulamasi")) {
         }
     }).mount("#iletisimUygulamasi");
 }
+
+function loginKontrol() {
+    const email = document.getElementById("email").value.trim();
+    const sifre = document.getElementById("sifre").value.trim();
+
+    if (email === "" || sifre === "") {
+        alert("Kullanıcı adı ve şifre boş bırakılamaz.");
+        return false;
+    }
+
+    const emailKurali = /^[a-zA-Z0-9._%+-]+@sakarya\.edu\.tr$/;
+
+    if (!emailKurali.test(email)) {
+        alert("Geçerli bir sakarya.edu.tr mail adresi giriniz.");
+        return false;
+    }
+    return true; 
+}
