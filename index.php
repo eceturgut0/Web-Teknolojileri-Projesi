@@ -25,7 +25,7 @@
                     <li class="nav-item"><a class="nav-link active" href="index.php">Hakkımda</a></li>
                     <li class="nav-item"><a class="nav-link" href="cv.php">Özgeçmişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="sehrim.php">Şehrim</a></li>
-                    <li class="nav-item"><a class="nav-link" href="mirasim.php">Mirasım</a></li>
+                    <li class="nav-item"><a class="nav-link" href="mirasim.php">Mirasım</a></li> 
                     <li class="nav-item"><a class="nav-link" href="ilgi-alanlarim.php">İlgi Alanlarım</a></li>
                     <li class="nav-item"><a class="nav-link" href="iletisim.php">İletişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>

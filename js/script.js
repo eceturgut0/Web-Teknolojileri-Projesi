@@ -106,3 +106,49 @@ function loginKontrol() {
     }
     return true; 
 }
+
+function sarkiGetir(aranan) {
+    const alan = document.getElementById("sarkiAlani");
+
+    if (!alan) {
+        return;
+    }
+
+    alan.innerHTML = "<p>Şarkılar yükleniyor...</p>";
+
+    fetch(`https://itunes.apple.com/search?term=${aranan}&entity=song&limit=10`)
+        .then(response => response.json())
+        .then(data => {
+            alan.innerHTML = "";
+
+            const gorulenSarkilar = new Set();
+            const benzersizSarkilar = [];
+
+            data.results.forEach(sarki => {
+                if (!gorulenSarkilar.has(sarki.trackName)) {
+                    gorulenSarkilar.add(sarki.trackName);
+                    benzersizSarkilar.push(sarki);
+                }
+            });
+
+            benzersizSarkilar.slice(0, 3).forEach(sarki => {
+                alan.innerHTML += `
+                    <article class="col-md-4 mb-4">
+                        <div class="card h-100">
+                            <img src="${sarki.artworkUrl100}" class="card-img-top" alt="${sarki.trackName}">
+                            <div class="card-body text-center">
+                                <h3 class="h6">${sarki.trackName}</h3>
+                                <p>${sarki.artistName}</p>
+                                <a href="${sarki.trackViewUrl}" target="_blank" class="btn btn-primary">
+                                    Dinle
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                `;
+            });
+        })
+        .catch(() => {
+            alan.innerHTML = "<p>Veriler alınırken bir hata oluştu.</p>";
+        });
+}
