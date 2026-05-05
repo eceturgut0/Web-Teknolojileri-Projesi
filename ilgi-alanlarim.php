@@ -47,10 +47,9 @@
                             <h3 class="card-title h5">Örgü Örmek</h3>
                             <p class="card-text">
                                 İlk kez pandemi döneminde evde bulduğum şiş ve iplerle internet üzerinden örgü örmeyi öğrenmeye başladım. 
-                                Günlerce dışarı dahi çıkamadığımız için örgü örmek bir nebze de olsa zaman geçirmeme yardımcı olurdu. 
-                                Daha sonrasında sınav senemde bu hobimden uzaklaşmak zorunda kaldım. 
-                                Ama seneler sonra tekrardan örgü örmeye başladım ve şu an kendi atkılarımı , eldivenlerimi ve kazaklarımı örebiliyorum.
-                                Ellerimle bir şeyler üretmek ve ortaya çıkan ürünün emeğimin sonucu olduğunu görmek benim için çok kıymetli.
+                                Bu süreçte örgü örmek bir nebze de olsa zaman geçirmeme yardımcı olurdu. 
+                                Şu an kendi atkılarımı , eldivenlerimi ve kazaklarımı örebiliyorum.
+                                Sonuçta ortaya çıkan ürünün emeğimin sonucu olduğunu görmek benim için çok kıymetli.
                          </p>
                     </div>
                 </div>
@@ -62,10 +61,10 @@
                          <div class="card-body">
                             <h3 class="card-title h5">Ukulele Çalmak</h3>
                             <p class="card-text">
-                                Liseye yeni başladığımda okulun gitar kursuna katıldım. Kursta hem çok eğlendim hem de profesyonel olmasa da gitar çalmayı öğrendim. 
-                                Ama kursu bırakınca yurt ve ev ortamında gitar çalmam zorlaştı ve uzun süre gitar çalmadım. 
+                                Liseye yeni başladığımda okulun gitar kursuna katıldım. Kursta gitar çalmayı öğrendim. 
+                                Ama kursu bırakınca yurt ve ev ortamında gitar çalmam zorlaştı ve uzun süre çalmadım. 
                                 Bir ay önce hem taşınabilirlik hemde daha yumuşak tınısı sebebiyle ukulele almaya karar verdim.
-                                 Şu an ukulele çalmayı öğrenmeye çalışıyorum ve bu süreçte geçmişten temelim olduğu için hem çok zorlanmıyorum hem de çok eğleniyorum.
+                                Şu anda öğrenme sürecindeyim.
                          </p>
                     </div>
                 </div>
@@ -76,8 +75,8 @@
                          <div class="card-body">
                             <h3 class="card-title h5">Hikayeler Yazmak</h3>
                             <p class="card-text">
-                                İlk ortaokul ve lisede türkçe dersinde hikaye ve deneme yazma ödevleriyle metinler yazmaya başladım. 
-                                Özellikle sınava hazırlandığım süreçte gece etüt odası boşaldığında defterime aklımdan geçenleri yazardım.
+                                Ortaokul ve lisede türkçe dersinde hikaye ve deneme yazma ödevleriyle metinler yazmaya başladım. 
+                                Özellikle sınava hazırlandığım süreçte boş zamanlarımda defterime aklımdan geçenleri yazardım.
                                 Şimdi de sık sık günlükler tutup parça parça hikayeler yazıyorum.
                                 Yazarak zamanı kaydetmek ve seneler sonra dönüp baktığımda o anki duygularımı ve düşüncelerimi görmek benim için çok değerli.
                          </p>
@@ -90,10 +89,10 @@
                          <div class="card-body">
                             <h3 class="card-title h5">Çizim Yapmak</h3>
                             <p class="card-text">
-                                Küçükken ablam hep çizim yapardı ben de ondan etkilenerek çizdiklerini taklit etmeye başladım. 
+                                Küçükken ablam çizimler yapardı, ben de ondan etkilenerek çizdiklerini taklit etmeye başladım. 
                                 Zamanla karakalem çizimleri sevdiğimi fark ettim ve o tarz çizimler yapmaya başladım.
-                                 Bazı çizim teknikleri öğrenerendikçe geliştim. Vakit buldukça daha fazla teknik öğrenmeye ve yeni çizimler yapmaya çalışıyorum. 
-                                 Özellikle günlüklerimi çizimlerimle süsleyerek kişisel defterler tutmaktan keyif alıyorum.
+                                Bazı çizim teknikleri öğrendikçe geliştim. Vakit buldukça yeni teknikler öğrenip çizimler yapıyorum. 
+                                Özellikle günlüklerimi çizimlerimle süsleyerek kişisel defterler tutmaktan keyif alıyorum.
                          </p>
                     </div>
                 </div>
@@ -107,44 +106,41 @@
            
             <section id="muzik" class="mb-5">
             <h2>Müzik</h2>
+            <p class="text-muted">Albümden şarkı görmek için butona tıklayın.</p>
                <div class="row mt-4">
         <article class="col-md-3 mb-4 text-center">
 
                 <img src="img/strange-trails.jpeg" class="img-fluid mb-2">
-                <h3>Strange Trails</h3>
-
+               
             <button class="btn btn-primary" onclick="sarkiGetir('strange trailslord huron')">
-            Albümden Şarkı Göster</button>
+            Strange Trails</button>
             
         </article>
 
         <article class="col-md-3 mb-4 text-center">
 
                 <img src="img/mayhem.jpeg" class="img-fluid mb-2">
-                <h3>Mayhem</h3>
-
+               
             <button class="btn btn-primary" onclick="sarkiGetir('mayhemlady gaga')">
-            Albümden Şarkı Göster</button>
+            Mayhem</button>
         
         </article>
 
         <article class="col-md-3 mb-4 text-center">
 
             <img src="img/folklore.jpeg" class="img-fluid mb-2">
-            <h3>Folklore</h3>
-
+            
             <button class="btn btn-primary" onclick="sarkiGetir('folklore taylor swift')">
-            Albümden Şarkı Göster</button>
+           Folklore</button>
         
         </article>
 
         <article class="col-md-3 mb-4 text-center">
 
             <img src="img/brand-new-eyes.jpeg" class="img-fluid mb-2">
-            <h3>Brand New Eyes</h3>
-
+           
             <button class="btn btn-primary" onclick="sarkiGetir('brand new eyes paramore')">
-            Albümden Şarkı Göster</button>
+            Brand New Eyes</button>
 
         </article>
     </div>
@@ -211,28 +207,63 @@
 
 <section id="dizi" class="mb-5">
     <h2>Dizi</h2>
-
-    <article class="card mt-4">
-
+    <div class="row mt-4">
+    
+    <article class="col-md-4 mb-4">
+        <div class="card h-100">
         <img src="img/leyla-ile-mecnun.jpeg" class="card-img-top">
         <div class="card-body">
-
-            <h3 class="h5">Leyla ile Mecnun</h3>
-            <p>Aynı gün doğan Leyla ve Mecnun’un hikâyesini anlatır.
-                Doğduklarında aynı beşiğe konulmalarıyla başlayan bu hikâye, 
+            
+        <h3 class="h5">Leyla ile Mecnun</h3>
+            <p> Leyla ve Mecnun’un doğduklarında aynı beşiğe konulmalarıyla başlayan hikâye, 
                 yıllar sonra Mecnun’un Leyla’ya âşık olmasıyla farklı bir boyut kazanır. 
                 Mecnun, Leyla’ya kavuşabilmek için sürekli çaba gösterirken birbirinden absürt, komik ve zaman zaman duygusal olayların içine sürüklenir. 
-                Dizide Mecnun’un babası İskender, yakın arkadaşı İsmail Abi, mahalle bakkalı Erdal Bakkal, Hırsız Yavuz ve gizemli Ak Sakallı Dede gibi karakterler hikâyeye eşlik eder.
-                Gerçek ile hayalin iç içe geçtiği dizide Mecnun’un gördüğü hayaller, iç dünyasını ve yaşadığı duygusal karmaşayı yansıtır. 
-                Aşkın yanı sıra dostluk, aile bağları, sadakat ve hayatın anlamı gibi temalar ön plandadır.
-                Leyla ile Mecnun, alışılmışın dışında anlatımıyla hem güldüren hem de düşündüren bir yapım olarak öne çıkar.
+                Gerçek ile hayalin iç içe geçtiği dizide aşkın yanı sıra dostluk, aile bağları, sadakat ve hayatın anlamı gibi temalar ön plandadır.
+                Alışılmışın dışında anlatımıyla hem güldüren hem de düşündüren bir yapım olarak öne çıkar.
                 </p>
 
             <a href="https://www.trt1.com.tr/diziler/leyla-ile-mecnun/bolum" target="_blank" class="btn btn-primary">
-            TRT İzle</a>
-
+            İzle</a>
+         </div>
         </div>
     </article>
+
+    <article class="col-md-4 mb-4">
+        <div class="card h-100">
+        <img src="img/prens.jpg" class="card-img-top">
+        <div class="card-body">
+
+            <h3 class="h5">Prens</h3>
+            <p>Hayali bir krallıkta yaşayan ve pek ciddiye alınmayan bir prensin hikâyesini anlatır. 
+            Tahtın varisi olmasına rağmen sorumsuz ve umursamaz tavırlarıyla dikkat çeken Prens, saraydaki entrikalar ve olaylar arasında sürekli başını belaya sokar. 
+            Zamanla hem sorumluluk almak zorunda kalır hem de çevresindeki insanlarla ilişkileri değişmeye başlar. Dizi, mizahi bir anlatımla güç, sorumluluk ve iktidar konularını eğlenceli bir şekilde işler.
+                </p>
+
+            <a href="https://www.hbomax.com/tr/tr/shows/prens-2023/9b669a12-2428-421c-94e7-d295675cc742" target="_blank" class="btn btn-primary">
+            İzle</a>
+         </div>
+        </div>
+    </article>
+    
+    <article class="col-md-4 mb-4">
+        <div class="card h-100">
+        <img src="img/istanbul.jpeg" class="card-img-top">
+        <div class="card-body">
+
+            <h3 class="h5">Ulan İstanbul</h3>
+            <p>Dolandırıcılık yaparak geçinen bir grup insanın hikâyesini anlatır. 
+               Karlos, Yaren, Derya, Kandemir, Bahadır ve Ferdi gibi karakterlerden oluşan bu ekip, İstanbul’da birlikte yaşayıp çeşitli planlar yaparak insanları dolandırmaya çalışır.
+               Ancak işler çoğu zaman planladıkları gibi gitmez ve kendilerini komik ve karmaşık durumların içinde bulurlar.
+               Zamanla ekip arasında güçlü bir dostluk bağı oluşur ve sadece para değil, birbirleri için de mücadele etmeye başlarlar. 
+               Dizi; suç, dostluk, aşk ve aile gibi temaları eğlenceli ve yer yer duygusal bir şekilde ele alır.
+                </p>
+
+            <a href="https://www.kanald.com.tr/ulan-istanbul/bolumler" target="_blank" class="btn btn-primary">
+            İzle</a>
+          </div>
+        </div>
+    </article>
+</div>  
 </section>
 
 
@@ -250,7 +281,8 @@
                     <p>Sıradan ve hayal kurmaya düşkün bir adam olan Walter Mitty’nin hayatını anlatır. 
                       Walter, Life dergisinde çalışan ve monoton bir yaşam süren bir fotoğraf arşivcisidir. 
                       Sürekli hayal dünyasına dalan Walter, kaybolan önemli bir fotoğrafı bulmak için gerçek bir maceraya atılmak zorunda kalır. 
-                      Bu süreçte Grönland, İzlanda ve Himalayalar gibi farklı yerlere yolculuk yapar ve korkularıyla yüzleşir. Walter, bu yolculuk sayesinde kendine olan güvenini kazanır ve hayatını değiştirmeye başlar. 
+                      Bu süreçte Grönland, İzlanda ve Himalayalar gibi farklı yerlere yolculuk yapar ve korkularıyla yüzleşir. 
+                      Walter, bu yolculuk sayesinde kendine olan güvenini kazanır ve hayatını değiştirmeye başlar. 
                       Film, hayallerin peşinden gitme, cesaret ve kendini keşfetme temalarını işler.</p>
                 
                     </div>

@@ -74,7 +74,7 @@
                          <div class="card-body">
                             <h3 class="card-title h5">Örgü Örmek</h3>
                             <p class="card-text">
-                                Örgü örmek benim için sadece bir hobi değil aynı zamanda istediğim renk kombinasyonlarıyla kendi zevkime göre kıyafetler yapabileceğim keyifli bir uğraş. Boş zamanlarımda örgü örmek bana rahatlama ve yaratıcılığımı ifade etme fırsatı sunuyor. 
+                                Örgü örmek benim için sadece bir hobi değil aynı zamanda istediğim renk kombinasyonlarıyla kendi zevkime göre kıyafetler yapabileceğim keyifli bir uğraş.  
                          </p>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                          <div class="card-body">
                             <h3 class="card-title h5">Çizim Yapmak</h3>
                             <p class="card-text">
-                                Senelerdir günlüklerimin içerisine çizimler de yaparım. Bu şekilde kendi elimden çıkmış kişisel defterler tutup zaman zaman bu defterleri gözden geçirmeyi severim. 
+                                Senelerdir günlüklerimin içerisine karakalem çizimler yaparım. Bu şekilde kendi elimden çıkmış kişisel defterler tutup zaman zaman bu defterleri gözden geçirmeyi severim. 
                          </p>
                     </div>
                 </div>
