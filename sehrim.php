@@ -93,11 +93,10 @@
             <div class="carousel-inner rounded shadow">
 
                 <article class="carousel-item active">
-                    <a href="#sekapark">
-                        
-                    <img src="img/sekapark.jpg" class="d-block w-100 slider-img" alt="Sekapark">
-
-                    </a>
+                    
+                <a href="#sekapark">  
+                    <img src="img/sekapark.jpeg" class="d-block w-100 slider-img" alt="Sekapark">
+                </a>
 
                     <div class="carousel-caption d-none d-md-block">
 
@@ -109,11 +108,10 @@
 
                 
                 <article class="carousel-item">
-                    <a href="#fuar-alani">
-
-                        <img src="img/fuar-alani.jpg" class="d-block w-100 slider-img" alt="Kocaeli Fuar Alanı">
-
-                    </a>
+                    
+                <a href="#fuar-alani">
+                        <img src="img/fuar-alani.jpeg" class="d-block w-100 slider-img" alt="Kocaeli Fuar Alanı">
+                </a>
 
                     <div class="carousel-caption d-none d-md-block">
 
@@ -125,11 +123,10 @@
 
                 
                 <article class="carousel-item">
-                    <a href="#kartepe">
-
+                    
+                <a href="#kartepe">
                         <img src="img/kartepe.jpg" class="d-block w-100 slider-img" alt="Kartepe Kayak Merkezi">
-
-                    </a>
+                </a>
 
                     <div class="carousel-caption d-none d-md-block">
 
@@ -141,28 +138,25 @@
                
                
                 <article class="carousel-item">
-                    <a href="#maşukiye">
-
-                        <img src="img/masukiye.jpg" class="d-block w-100 slider-img" alt="Maşukiye">
-
-                    </a>
+                    
+                <a href="#ormanya">
+                        <img src="img/ormanya.jpg" class="d-block w-100 slider-img" alt="Ormanya Tabiat Parkı">
+                </a>
 
                     <div class="carousel-caption d-none d-md-block">
 
-                        <h3>Maşukiye</h3>
+                        <h3>Ormanya Tabiat Parkı</h3>
 
                     </div>
 
                 </article>
                
                 
-                
                 <article class="carousel-item">
-                    <a href="#pembe-kayaliklar">
-
+                    
+                <a href="#pembe-kayaliklar">
                         <img src="img/pembe-kayaliklar.jpg" class="d-block w-100 slider-img" alt="Pembe Kayalıklar">
-
-                    </a>
+                </a>
 
                     <div class="carousel-caption d-none d-md-block">
 
@@ -174,11 +168,10 @@
 
                 
                 <article class="carousel-item">
-                    <a href="#yuvacik-baraji">
-
+                    
+                <a href="#yuvacik-baraji">
                         <img src="img/yuvacik-baraji.jpg" class="d-block w-100 slider-img" alt="Yuvacık Barajı">
-
-                    </a>
+                </a>
 
                     <div class="carousel-caption d-none d-md-block">
 
@@ -190,15 +183,14 @@
 
                 
                 <article class="carousel-item">
-                    <a href="#kerpe">
-
-                        <img src="img/kerpe.jpg" class="d-block w-100 slider-img" alt="Kerpe">
-
-                    </a>
+                    
+                <a href="#kapanca">
+                        <img src="img/kapanca.jpg" class="d-block w-100 slider-img" alt="Tarihi Kapanca Sokak">
+                </a>
 
                     <div class="carousel-caption d-none d-md-block">
 
-                        <h3>Kerpe</h3>
+                        <h3>Tarihi Kapanca Sokak</h3>
 
                     </div>
 
@@ -206,11 +198,10 @@
 
                 
                 <article class="carousel-item">
-                    <a href="#karamursel-sahil">
-
+                    
+                <a href="#karamursel-sahil">
                         <img src="img/karamursel-sahil.jpg" class="d-block w-100 slider-img" alt="Karamürsel Sahil">
-
-                    </a>
+                </a>
 
                     <div class="carousel-caption d-none d-md-block">
 
@@ -222,6 +213,7 @@
 
             </div>
 
+            
             <button class="carousel-control-prev" type="button" data-bs-target="#sehrimSlider" data-bs-slide="prev">
 
                 <span class="carousel-control-prev-icon"></span>
@@ -233,6 +225,7 @@
                 <span class="carousel-control-next-icon"></span>
 
             </button>
+
 
         </div>
 
@@ -250,14 +243,17 @@
 
                 <div class="card h-100">
 
-                    <img src="img/sekapark.jpg" class="card-img-top" alt="Sekapark">
+                    <img src="img/sekapark.jpeg" class="card-img-top" alt="Sekapark">
 
                     <div class="card-body">
 
                         <h3 class="h5">Sekapark</h3>
 
                         <p>
-
+                        Sekapark, Kocaeli’nin en önemli sosyal ve yaşam alanlarından biridir.
+                        İzmit Körfezi kıyısında bulunan bu alan, eski bir sanayi bölgesinin düzenlenmesiyle oluşturulmuştur. 
+                        Geniş yeşil alanları, yürüyüş ve bisiklet yolları sayesinde hem şehir halkının hem de turistlerin sıkça ziyaret ettiği bir yerdir. 
+                        Doğa ile denizin bir arada bulunduğu Sekapark, dinlenmek ve vakit geçirmek için Kocaeli’nin en popüler noktalarından biri olarak görülmektedir.
                             
                         </p>
 
@@ -267,18 +263,22 @@
 
             </article>
 
+           
             <article id="fuar-alani" class="col-12 mb-4">
 
                 <div class="card h-100">
 
-                    <img src="img/fuar-alani.jpg" class="card-img-top" alt="Kocaeli Fuar Alanı">
+                    <img src="img/fuar-alani.jpeg" class="card-img-top" alt="Kocaeli Fuar Alanı">
 
                     <div class="card-body">
 
                         <h3 class="h5">Kocaeli Fuar Alanı</h3>
 
                         <p>
-
+                         Kocaeli Fuar Alanı, şehrin en önemli etkinlik ve sosyal yaşam merkezlerinden biridir. 
+                         Yıl boyunca konserler, festivaller, fuarlar ve çeşitli kültürel etkinliklere ev sahipliği yapmaktadır. 
+                         Geniş yeşil alanları, yürüyüş yolları ve eğlence alanları sayesinde insanların vakit geçirmek için sıkça tercih ettiği yerlerden biridir. 
+                         Özellikle yaz aylarında düzenlenen etkinliklerle Kocaeli’nin sosyal hayatına canlılık katmaktadır.
                             
                         </p>
 
@@ -288,6 +288,7 @@
 
             </article>
 
+            
             <article id="kartepe" class="col-12 mb-4">
 
                 <div class="card h-100">
@@ -299,9 +300,10 @@
                         <h3 class="h5">Kartepe Kayak Merkezi</h3>
 
                         <p>
-
-                            
-
+                        Kartepe Kayak Merkezi, Kocaeli’nin en önemli turizm bölgelerinden biridir. 
+                        Özellikle kış aylarında yoğun ilgi gören merkez, doğal güzellikleri ve kar manzarasıyla dikkat çekmektedir. 
+                        Kayak ve snowboard gibi kış sporları için uygun alanlara sahip olan Kartepe, hem profesyonel sporcular hem de tatil yapmak isteyen ziyaretçiler tarafından tercih edilmektedir. 
+                        Temiz havası, ormanlık yapısı ve doğayla iç içe ortamı sayesinde yılın farklı dönemlerinde de ziyaret edilen önemli bir turizm merkezidir.
                         </p>
 
                     </div>
@@ -310,18 +312,22 @@
 
             </article>
 
-             <article id="maşukiye" class="col-12 mb-4">
+             
+            <article id="ormanya" class="col-12 mb-4">
 
                 <div class="card h-100">
 
-                    <img src="img/masukiye.jpg" class="card-img-top" alt="Maşukiye">
+                    <img src="img/ormanya.jpg" class="card-img-top" alt="Ormanya">
 
                     <div class="card-body">
 
-                        <h3 class="h5">Maşukiye</h3>
+                        <h3 class="h5">Ormanya Tabiat Parkı</h3>
 
                         <p>
-
+                        Ormanya Tabiat Parkı, Kocaeli’nin doğal güzellikleriyle öne çıkan önemli turizm alanlarından biridir. 
+                        Geniş ormanlık alanları, yürüyüş yolları ve doğal yaşam ortamıyla ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. 
+                        Park içerisinde çeşitli hayvan türleri bulunmakta ve doğal yaşam korunmaktadır. 
+                        Temiz havası ve sakin atmosferi sayesinde hem dinlenmek hem de doğa etkinlikleri yapmak isteyen insanların sıkça tercih ettiği yerlerden biridir. Özellikle aileler ve doğa severler için Kocaeli’nin en dikkat çeken alanlarından biri olarak görülmektedir.
                             
                         </p>
 
@@ -331,6 +337,7 @@
 
             </article>
 
+            
             <article id="pembe-kayaliklar" class="col-12 mb-4">
 
                 <div class="card h-100">
@@ -342,7 +349,10 @@
                         <h3 class="h5">Pembe Kayalıklar</h3>
 
                         <p>
-
+                        Pembe Kayalıklar, Kocaeli’nin doğal güzellikleri arasında yer alan dikkat çekici bir bölgedir. 
+                        Adını gün batımında pembe renge dönüşen kayalarından alan bu yer, özellikle doğal manzarasıyla ziyaretçilerin ilgisini çekmektedir. 
+                        Deniz kıyısında bulunan kayalıklar, temiz havası ve sakin ortamıyla doğayla vakit geçirmek isteyenler için güzel bir alan oluşturmaktadır. 
+                        Fotoğraf çekmek, manzara izlemek ve doğanın tadını çıkarmak isteyen insanların sıkça ziyaret ettiği turistik noktalardan biridir.
                           
 
                         </p>
@@ -353,6 +363,7 @@
 
             </article>
 
+            
             <article id="yuvacik-baraji" class="col-12 mb-4">
 
                 <div class="card h-100">
@@ -364,7 +375,10 @@
                         <h3 class="h5">Yuvacık Barajı</h3>
 
                         <p>
-
+                        Yuvacık Barajı, Kocaeli’nin doğal güzellikleriyle öne çıkan önemli yerlerinden biridir. 
+                        Şehrin su ihtiyacını karşılamak amacıyla yapılan baraj, aynı zamanda doğayla iç içe vakit geçirmek isteyen insanların sıkça ziyaret ettiği bir bölgedir. 
+                        Etrafındaki ormanlık alanlar, temiz havası ve sakin manzarası sayesinde özellikle hafta sonlarında ilgi görmektedir. 
+                        Doğa yürüyüşü, piknik ve fotoğrafçılık gibi etkinlikler için uygun bir ortam sunan Yuvacık Barajı, Kocaeli’nin en sevilen doğal alanlarından biri olarak bilinmektedir.
                            
 
                         </p>
@@ -375,18 +389,22 @@
 
             </article>
 
-            <article id="kerpe" class="col-12 mb-4">
+            
+            <article id="kapanca" class="col-12 mb-4">
 
                 <div class="card h-100">
 
-                    <img src="img/kerpe.jpg" class="card-img-top" alt="Kerpe">
+                    <img src="img/kapanca.jpg" class="card-img-top" alt="Tarihi Kapanca Sokak">
 
                     <div class="card-body">
 
-                        <h3 class="h5">Kerpe</h3>
+                        <h3 class="h5">Tarihi Kapanca Sokak</h3>
 
                         <p>
-
+                        Kapanca Sokak, İzmit’in en bilinen tarihi sokaklarından biridir. 
+                        Osmanlı döneminden kalma tarihi evleri, dar taş yolları ve nostaljik atmosferiyle dikkat çeker. 
+                        Restore edilen renkli evler sayesinde hem turistlerin hem de fotoğraf çekmek isteyen insanların sıkça ziyaret ettiği yerlerden biridir. 
+                        Kocaeli’nin tarihi dokusunu yansıtan önemli alanlardan biri olarak görülmektedir.
                            
                         </p>
 
@@ -396,6 +414,7 @@
 
             </article>
 
+            
             <article id="karamursel-sahil" class="col-12 mb-4">
 
                 <div class="card h-100">
@@ -407,7 +426,10 @@
                         <h3 class="h5">Karamürsel Sahil</h3>
 
                         <p>
-
+                        Karamürsel Sahili, Kocaeli’nin en güzel sahil bölgelerinden biridir. 
+                        Deniz manzarası, yürüyüş yolları ve dinlenme alanlarıyla hem şehir halkının hem de ziyaretçilerin sıkça tercih ettiği bir yerdir. 
+                        Özellikle gün batımında oluşan manzara dikkat çekmektedir. 
+                        Sahil boyunca bulunan kafeler ve sosyal alanlar sayesinde insanlar burada keyifli vakit geçirebilmektedir.
                             
 
                         </p>
@@ -423,6 +445,7 @@
     </section>
 
 </main>
+
 
 <footer class="bg-dark text-white text-center p-3">
 
