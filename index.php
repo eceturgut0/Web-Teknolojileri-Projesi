@@ -97,7 +97,7 @@
                          <div class="card-body">
                             <h3 class="card-title h5">Hikayeler Yazmak</h3>
                             <p class="card-text">
-                                Boş zamanlarımda kafamda hikayeler kurgulayıp parça parça yazıya dökerim. İleride bu alanda kendimi geliştirmek ve çalışmalarımı bir bütün haline getirmek istiyorum.
+                                Boş zamanlarımda kafamda hikayeler kurgulayıp parça parça yazıya dökerim. Halihazırda kitap okumayı da çok sevdiğim için zamanla yazmak benim için hobiye dönüştü.
                          </p>
                     </div>
                 </div>
