@@ -23,10 +23,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link" href="index.php">Hakkımda</a></li>
-                    <li class="nav-item"><a class="nav-link" href="cv.php">Özgeçmişim</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ilgi-alanlarim.php">İlgi Alanlarım</a></li>
                     <li class="nav-item"><a class="nav-link" href="sehrim.php">Şehrim</a></li>
                     <li class="nav-item"><a class="nav-link active" href="mirasim.php">Mirasım</a></li>
-                    <li class="nav-item"><a class="nav-link" href="ilgi-alanlarim.php">İlgi Alanlarım</a></li>
+                    <li class="nav-item"><a class="nav-link" href="cv.php">Özgeçmişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="iletisim.php">İletişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
                 </ul>
@@ -218,11 +218,12 @@
                         <h3 class="h5">Pertev Paşa Camii</h3>
 
                         <p>
-                       Pertev Paşa Camii, halk arasındaki adıyla Yeni Cuma Camii İzmit’te bulunan önemli tarihi yapılardan biridir. 
-                       Osmanlı döneminde Mimar Sinan tarafından inşa edilen cami, mimarisi ve tarihi değeriyle dikkat çekmektedir. 
-                       Kesme taş kullanılarak yapılan yapı, uzun yıllardır ibadete açık olarak kullanılmaktadır. 
-                       Şehrin kültürel mirasları arasında yer alan Pertev Paşa Camii, hem tarihi hem de manevi açıdan önemli bir yere sahiptir.
-                            
+                       Pertev Paşa Camii, diğer adıyla Yeni Cuma Camii, İzmit’te bulunan önemli Osmanlı eserlerinden biridir. 
+                       16. yüzyılda Osmanlı vezirlerinden Pertev Mehmet Paşa tarafından yaptırılan cami, ünlü Osmanlı mimarı Mimar Sinan’ın eserleri arasında yer almaktadır. 
+                       Kesme taş kullanılarak inşa edilen yapı, sade fakat etkileyici mimarisiyle dikkat çekmektedir.
+                       Caminin geniş kubbesi, kemerli yapıları ve ince işçilikle yapılan detayları Osmanlı mimarisinin özelliklerini yansıtmaktadır. 
+                       Uzun yıllardır ibadete açık olan Pertev Paşa Camii, hem tarihî hem de manevi açıdan önemli bir yere sahiptir. 
+                       Şehir merkezinde bulunması nedeniyle yerli ve yabancı ziyaretçiler tarafından sıkça ziyaret edilen yapılar arasında yer almaktadır.
                         </p>
 
                     </div>
@@ -243,11 +244,13 @@
                         <h3 class="h5">Fevziye Camii</h3>
 
                         <p>
-                        Fevziye Camii, İzmit’in en önemli tarihi ve dini yapılarından biridir. 
-                        Osmanlı döneminden günümüze ulaşan cami, mimarisi ve manevi atmosferiyle dikkat çekmektedir. 
-                        Geçmişte yaşanan depremler nedeniyle zarar görse de restore edilerek yeniden ibadete açılmıştır. 
-                        Şehir merkezinde bulunan Fevziye Camii, hem ibadet etmek hem de tarihi yapıyı görmek isteyen insanların sıkça ziyaret ettiği yerlerden biridir.
-                            
+                        Fevziye Camii, İzmit’in en önemli tarihî ve dini yapılarından biridir. 
+                        Osmanlı döneminde inşa edilen cami, mimarisi ve manevi atmosferiyle şehrin dikkat çeken eserleri arasında yer almaktadır. 
+                        Geçmişte yaşanan büyük depremler nedeniyle zarar görmüş olsa da restore edilerek yeniden ibadete açılmıştır. 
+                        Günümüzde hem ibadet amacıyla hem de tarihî yapıyı görmek isteyen ziyaretçiler tarafından sıkça ziyaret edilmektedir.
+                        Caminin mimarisinde Osmanlı dönemine ait estetik detaylar dikkat çekmektedir. 
+                        Geniş iç yapısı, kubbeleri ve zarif minaresi yapının görkemli görünmesini sağlamaktadır. 
+                        Şehir merkezinde bulunan Fevziye Camii, Kocaeli’nin kültürel ve tarihî mirasını yansıtan önemli eserlerden biri olarak kabul edilmektedir.
                         </p>
 
                     </div>
@@ -268,10 +271,13 @@
                         <h3 class="h5">İzmit Saat Kulesi</h3>
 
                         <p>
-                        İzmit Saat Kulesi, Kocaeli’nin simgelerinden biri olan tarihi bir yapıdır. 
-                        Osmanlı döneminde inşa edilen kule, şehrin önemli tarihi eserleri arasında yer almaktadır. 
-                        Deniz manzarasına karşı konumlanan Saat Kulesi, mimarisi ve tarihi görünümüyle dikkat çekmektedir. 
-                        Günümüzde hem turistlerin hem de şehir halkının sıkça ziyaret ettiği önemli noktalardan biridir.
+                       İzmit Saat Kulesi, Kocaeli’nin simgelerinden biri olan önemli tarihî yapılardan biridir. 
+                       Osmanlı döneminde Sultan II. Abdülhamid’in tahta çıkışının anısına yaptırılan kule, 1901 yılında inşa edilmiştir. 
+                       İzmit’te yüksek bir konumda bulunan yapı, hem şehir manzarası hem de deniz görünümüyle dikkat çekmektedir. 
+                       Tarihî yapısı sayesinde Kocaeli’nin en çok ziyaret edilen turistik noktalarından biri hâline gelmiştir.
+                       Saat Kulesi, taş mimarisi ve zarif tasarımıyla Osmanlı dönemi mimarisinin güzel örneklerinden biri olarak görülmektedir. 
+                       Dört katlı yapıya sahip olan kule, ince detaylarla süslenmiş olup estetik görünümüyle dikkat çekmektedir. 
+                       Günümüzde hem turistlerin hem de şehir halkının sıkça ziyaret ettiği bu yapı, Kocaeli’nin tarihî ve kültürel mirasını yansıtan önemli eserlerden biridir.
                         </p>
 
                     </div>
@@ -293,9 +299,11 @@
 
                         <p>
                         SEKA Kâğıt Müzesi, Kocaeli’nin sanayi ve kültür tarihini yansıtan önemli müzelerden biridir. 
-                        Eski SEKA Kâğıt Fabrikası’nın müzeye dönüştürülmesiyle oluşturulan bu yapı, kâğıt üretiminin geçmişten günümüze gelişimini göstermektedir. 
-                        Müze içerisinde eski makineler, belgeler ve farklı sergi alanları bulunmaktadır. 
-                        Hem eğitici hem de tarihi bir öneme sahip olan SEKA Kâğıt Müzesi, ziyaretçiler tarafından ilgi gören kültürel alanlardan biridir.     
+                        Türkiye’nin ilk kâğıt fabrikalarından biri olan SEKA Kâğıt Fabrikası’nın müzeye dönüştürülmesiyle oluşturulan bu yapı, geçmişte uzun yıllar boyunca kâğıt üretimi yapılan önemli bir sanayi merkezi olmuştur. 
+                        Fabrikanın tarihî yapısı korunarak müze hâline getirilmiş ve ziyaretçilere açılmıştır.
+                        Müze içerisinde eski kâğıt üretim makineleri, tarihî belgeler, fotoğraflar ve çeşitli sergi alanları bulunmaktadır. 
+                        Ziyaretçiler burada kâğıdın üretim aşamalarını öğrenebilmekte ve fabrikanın geçmişteki çalışma sistemini yakından inceleyebilmektedir. 
+                        Hem eğitici hem de kültürel bir öneme sahip olan SEKA Kâğıt Müzesi, Kocaeli’nin tarihî mirasını yansıtan önemli yapılardan biri olarak görülmektedir.
                         </p>
 
                     </div>
@@ -317,10 +325,12 @@
 
                         <p>
                         Kocaeli Arkeoloji Müzesi, şehrin tarihî geçmişini ve kültürel mirasını tanıtan önemli müzelerden biridir. 
-                        Müze içerisinde Roma, Bizans ve Osmanlı dönemlerine ait birçok eser sergilenmektedir. 
-                        Tarihî bir yapının restore edilmesiyle oluşturulan müze, hem mimarisi hem de sergilenen eserleriyle dikkat çekmektedir. 
-                        Kocaeli’nin geçmişine ışık tutan bu müze, tarih ve arkeolojiye ilgi duyan ziyaretçiler tarafından sıkça tercih edilmektedir.
-
+                        Müze, tarihî bir yapının restore edilmesiyle oluşturulmuş ve ziyaretçilere açılmıştır. 
+                        İçerisinde Roma, Bizans ve Osmanlı dönemlerine ait birçok arkeolojik eser sergilenmektedir. 
+                        Bu eserler sayesinde Kocaeli’nin geçmişten günümüze uzanan tarihî gelişimi hakkında bilgi edinmek mümkündür.
+                        Müzede eski heykeller, mezar taşları, seramikler, sikkeler ve çeşitli tarihî objeler bulunmaktadır. 
+                        Sergilenen eserler, geçmiş dönemlerde bölgede yaşayan insanların kültürü ve yaşam tarzı hakkında önemli bilgiler vermektedir. 
+                        Tarihî atmosferi ve zengin koleksiyonuyla dikkat çeken Kocaeli Arkeoloji Müzesi, tarih ve arkeolojiye ilgi duyan ziyaretçiler tarafından sıkça tercih edilen kültürel alanlardan biridir.
                         </p>
 
                     </div>
