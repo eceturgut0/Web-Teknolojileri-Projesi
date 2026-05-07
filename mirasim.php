@@ -218,7 +218,10 @@
                         <h3 class="h5">Pertev Paşa Camii</h3>
 
                         <p>
-                       
+                       Pertev Paşa Camii, halk arasındaki adıyla Yeni Cuma Camii İzmit’te bulunan önemli tarihi yapılardan biridir. 
+                       Osmanlı döneminde Mimar Sinan tarafından inşa edilen cami, mimarisi ve tarihi değeriyle dikkat çekmektedir. 
+                       Kesme taş kullanılarak yapılan yapı, uzun yıllardır ibadete açık olarak kullanılmaktadır. 
+                       Şehrin kültürel mirasları arasında yer alan Pertev Paşa Camii, hem tarihi hem de manevi açıdan önemli bir yere sahiptir.
                             
                         </p>
 
@@ -240,7 +243,10 @@
                         <h3 class="h5">Fevziye Camii</h3>
 
                         <p>
-                         
+                        Fevziye Camii, İzmit’in en önemli tarihi ve dini yapılarından biridir. 
+                        Osmanlı döneminden günümüze ulaşan cami, mimarisi ve manevi atmosferiyle dikkat çekmektedir. 
+                        Geçmişte yaşanan depremler nedeniyle zarar görse de restore edilerek yeniden ibadete açılmıştır. 
+                        Şehir merkezinde bulunan Fevziye Camii, hem ibadet etmek hem de tarihi yapıyı görmek isteyen insanların sıkça ziyaret ettiği yerlerden biridir.
                             
                         </p>
 
@@ -262,7 +268,10 @@
                         <h3 class="h5">İzmit Saat Kulesi</h3>
 
                         <p>
-                       
+                        İzmit Saat Kulesi, Kocaeli’nin simgelerinden biri olan tarihi bir yapıdır. 
+                        Osmanlı döneminde inşa edilen kule, şehrin önemli tarihi eserleri arasında yer almaktadır. 
+                        Deniz manzarasına karşı konumlanan Saat Kulesi, mimarisi ve tarihi görünümüyle dikkat çekmektedir. 
+                        Günümüzde hem turistlerin hem de şehir halkının sıkça ziyaret ettiği önemli noktalardan biridir.
                         </p>
 
                     </div>
@@ -283,8 +292,10 @@
                         <h3 class="h5">Seka Kağıt Müzesi</h3>
 
                         <p>
-                        
-                            
+                        SEKA Kâğıt Müzesi, Kocaeli’nin sanayi ve kültür tarihini yansıtan önemli müzelerden biridir. 
+                        Eski SEKA Kâğıt Fabrikası’nın müzeye dönüştürülmesiyle oluşturulan bu yapı, kâğıt üretiminin geçmişten günümüze gelişimini göstermektedir. 
+                        Müze içerisinde eski makineler, belgeler ve farklı sergi alanları bulunmaktadır. 
+                        Hem eğitici hem de tarihi bir öneme sahip olan SEKA Kâğıt Müzesi, ziyaretçiler tarafından ilgi gören kültürel alanlardan biridir.     
                         </p>
 
                     </div>
@@ -305,7 +316,10 @@
                         <h3 class="h5">Kocaeli Arkeoloji Müzesi</h3>
 
                         <p>
-                        
+                        Kocaeli Arkeoloji Müzesi, şehrin tarihî geçmişini ve kültürel mirasını tanıtan önemli müzelerden biridir. 
+                        Müze içerisinde Roma, Bizans ve Osmanlı dönemlerine ait birçok eser sergilenmektedir. 
+                        Tarihî bir yapının restore edilmesiyle oluşturulan müze, hem mimarisi hem de sergilenen eserleriyle dikkat çekmektedir. 
+                        Kocaeli’nin geçmişine ışık tutan bu müze, tarih ve arkeolojiye ilgi duyan ziyaretçiler tarafından sıkça tercih edilmektedir.
 
                         </p>
 
@@ -327,8 +341,12 @@
                         <h3 class="h5">Kasrı Hümayun Saray Müzesi</h3>
 
                         <p>
-                      
-                    
+                        Kasr-ı Hümayun Saray Müzesi, İzmit’te bulunan ve Osmanlı döneminden günümüze ulaşan önemli tarihî yapılardan biridir. 
+                        19. yüzyılda Sultan Abdülaziz döneminde inşa edilen saray, Osmanlı padişahlarının İzmit ziyaretlerinde konaklaması amacıyla kullanılmıştır. 
+                        Deniz manzarasına hâkim konumuyla dikkat çeken yapı, zarif mimarisi ve süslemeleriyle Osmanlı saray anlayışını yansıtmaktadır.
+                        Sarayın içerisinde döneme ait mobilyalar, süslemeler ve tarihî eserler bulunmaktadır. 
+                        Tavan işlemeleri, büyük salonları ve dekoratif detayları yapının estetik değerini artırmaktadır. 
+                        Günümüzde müze olarak hizmet veren Kasr-ı Hümayun Saray Müzesi, hem tarihî atmosferi hem de kültürel önemi nedeniyle ziyaretçilerin ilgisini çeken önemli yapılardan biri olarak kabul edilmektedir.
                         </p>
 
                     </div>
@@ -349,8 +367,13 @@
                         <h3 class="h5">Çoban Mustafa Paşa Külliyesi</h3>
 
                         <p>
-                      
-                         
+                        Çoban Mustafa Paşa Külliyesi, Kocaeli’nin Gebze ilçesinde bulunan Osmanlı dönemine ait önemli tarihî yapılardan biridir. 
+                        16. yüzyılda yaptırılan külliye, Osmanlı mimarisinin dikkat çekici eserleri arasında yer almaktadır. 
+                        Yapı içerisinde cami, medrese, türbe, hamam, imaret ve kervansaray gibi farklı bölümler bulunmaktadır. 
+                        Bu özellikleri sayesinde külliye, geçmişte hem ibadet hem eğitim hem de sosyal yardım amacıyla kullanılan önemli bir merkez olmuştur.
+                        Külliyenin en dikkat çeken bölümlerinden biri Çoban Mustafa Paşa Camii’dir. 
+                        Taş işçiliği, süslemeleri ve mimari detaylarıyla Osmanlı sanatının güzel örneklerinden biri olarak görülmektedir. 
+                        Günümüzde tarihî ve kültürel değeri nedeniyle birçok ziyaretçinin ilgisini çeken külliye, Kocaeli’nin önemli kültürel mirasları arasında yer almaktadır.
                         </p>
 
                     </div>
@@ -371,8 +394,12 @@
                         <h3 class="h5">Selim Sırrı Paşa Konağı</h3>
 
                         <p>
-                       
-                            
+                        Selim Sırrı Paşa Konağı, Kocaeli’nin İzmit ilçesinde bulunan önemli tarihî yapılardan biridir. 
+                        Osmanlı döneminde 19. yüzyılda inşa edilen konak, dönemin mimari özelliklerini yansıtmaktadır. 
+                        Ahşap ağırlıklı yapısıyla dikkat çeken konak; işlemeli tavanları, geniş odaları ve geleneksel dekorasyonuyla geçmişin yaşam tarzını günümüze taşımaktadır.
+                        Günümüzde müze olarak kullanılan konakta, Osmanlı dönemine ait eşyalar, mobilyalar ve çeşitli tarihî eserler sergilenmektedir. 
+                        Tarihî atmosferi ve kültürel değeri sayesinde hem turistlerin hem de tarih meraklılarının ilgisini çekmektedir. 
+                        Selim Sırrı Paşa Konağı, Kocaeli’nin kültürel mirasını koruyan önemli yapılardan biri olarak kabul edilmektedir.
                         </p>
 
                     </div>
