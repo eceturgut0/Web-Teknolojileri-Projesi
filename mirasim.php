@@ -39,7 +39,7 @@
 <main class="container my-5">
 <section id="kocaeli-slider" class="mb-5">
 
-        <h2>Kocaeli’den Görseller</h2>
+        <h2>Kocaeli’nin Kültürel Mirasından Görseller</h2>
 
         <p class="text-muted">Sliderdaki görsellere tıklayarak ilgili yerin açıklamasına gidebilirsiniz.</p>
 
@@ -63,7 +63,7 @@
                 <article class="carousel-item active">
                     
                 <a href="#pertev-pasa">  
-                    <img src="img/pertev-pasa.jpeg" class="d-block w-100 slider-img" alt="Pertev Paşa Camii">
+                    <img src="img/pertev-pasa.jpg" class="d-block w-100 slider-img" alt="Pertev Paşa Camii">
                 </a>
 
                     <div class="carousel-caption d-none d-md-block">
@@ -78,7 +78,7 @@
                 <article class="carousel-item">
                     
                 <a href="#fevziye">
-                        <img src="img/fevziye.jpeg" class="d-block w-100 slider-img" alt="Fevziye Camii">
+                        <img src="img/fevziye.jpg" class="d-block w-100 slider-img" alt="Fevziye Camii">
                 </a>
 
                     <div class="carousel-caption d-none d-md-block">
@@ -93,7 +93,7 @@
                 <article class="carousel-item">
                     
                 <a href="#saat-kulesi">
-                        <img src="img/saat-kulesi.jpg" class="d-block w-100 slider-img" alt="İzmit Saat Kulesi">
+                        <img src="img/saat-kulesi.jpeg" class="d-block w-100 slider-img" alt="İzmit Saat Kulesi">
                 </a>
 
                     <div class="carousel-caption d-none d-md-block">
@@ -107,8 +107,8 @@
                 
                 <article class="carousel-item">
                     
-                <a href="#seka-kagıt">
-                        <img src="img/seka-kagıt.jpg" class="d-block w-100 slider-img" alt="Seka Kağıt Müzesi">
+                <a href="#seka-kagit">
+                        <img src="img/seka-kagit.jpeg" class="d-block w-100 slider-img" alt="Seka Kağıt Müzesi">
                 </a>
 
                     <div class="carousel-caption d-none d-md-block">
@@ -122,8 +122,8 @@
                
                 <article class="carousel-item">
                     
-                <a href="arkeoloji-müzesi">
-                        <img src="img/arkeoloji-müzesi.jpg" class="d-block w-100 slider-img" alt="Kocaeli Arkeoloji Müzesi">
+                <a href="arkeoloji-muzesi">
+                        <img src="img/arkeoloji-muzesi.jpg" class="d-block w-100 slider-img" alt="Kocaeli Arkeoloji Müzesi">
                 </a>
 
                     <div class="carousel-caption d-none d-md-block">
@@ -168,13 +168,13 @@
                 <article class="carousel-item">
                     
                 <a href="#selim-pasa">
-                        <img src="img/selim-pasa.jpg" class="d-block w-100 slider-img" alt="Selim Sırri Paşa Konağı">
+                        <img src="img/selim-pasa.jpg" class="d-block w-100 slider-img" alt="Selim Sırrı Paşa Konağı">
                       
                 </a>
 
                     <div class="carousel-caption d-none d-md-block">
 
-                        <h3>Selim Sırri Paşa Konağı</h3>
+                        <h3>Selim Sırrı Paşa Konağı</h3>
 
                     </div>
 
@@ -201,10 +201,189 @@
     </section>
 
 
+<section id="kulturel-miras" class="mb-5">
 
+        <h2>Kültürel Miraslar</h2>
 
+        <div class="row mt-4">
 
+            <article id="pertev-pasa" class="col-12 mb-4">
 
+                <div class="card h-100">
+
+                    <img src="img/pertev-pasa.jpg" class="card-img-top" alt="Pertev Paşa Camii">
+
+                    <div class="card-body">
+
+                        <h3 class="h5">Pertev Paşa Camii</h3>
+
+                        <p>
+                       
+                            
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+           
+            <article id="fevziye" class="col-12 mb-4">
+
+                <div class="card h-100">
+
+                    <img src="img/fevziye.jpg" class="card-img-top" alt="Fevziye Camii">
+
+                    <div class="card-body">
+
+                        <h3 class="h5">Fevziye Camii</h3>
+
+                        <p>
+                         
+                            
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+            
+            <article id="saat-kulesi" class="col-12 mb-4">
+
+                <div class="card h-100">
+
+                    <img src="img/saat-kulesi.jpeg" class="card-img-top" alt="İzmit Saat Kulesi">
+
+                    <div class="card-body">
+
+                        <h3 class="h5">İzmit Saat Kulesi</h3>
+
+                        <p>
+                       
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+             
+            <article id="seka-kagit" class="col-12 mb-4">
+
+                <div class="card h-100">
+
+                    <img src="img/seka-kagit.jpeg" class="card-img-top" alt="Seka Kağıt Müzesi">
+
+                    <div class="card-body">
+
+                        <h3 class="h5">Seka Kağıt Müzesi</h3>
+
+                        <p>
+                        
+                            
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+            
+            <article id="arkeoloji-muzesi" class="col-12 mb-4">
+
+                <div class="card h-100">
+
+                    <img src="img/arkeoloji-muzesi.jpg" class="card-img-top" alt="Kocaeli Arkeoloji Müzesi">
+
+                    <div class="card-body">
+
+                        <h3 class="h5">Kocaeli Arkeoloji Müzesi</h3>
+
+                        <p>
+                        
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+            
+            <article id="kasri-humayun" class="col-12 mb-4">
+
+                <div class="card h-100">
+
+                    <img src="img/kasri-humayun.jpg" class="card-img-top" alt="Kasrı Hümayun Saray Müzesi">
+
+                    <div class="card-body">
+
+                        <h3 class="h5">Kasrı Hümayun Saray Müzesi</h3>
+
+                        <p>
+                      
+                    
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+            
+            <article id="mustafa-pasa" class="col-12 mb-4">
+
+                <div class="card h-100">
+
+                    <img src="img/mustafa-pasa.jpg" class="card-img-top" alt="Çoban Mustafa Paşa Külliyesi">
+
+                    <div class="card-body">
+
+                        <h3 class="h5">Çoban Mustafa Paşa Külliyesi</h3>
+
+                        <p>
+                      
+                         
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+            
+            <article id="selim-pasa" class="col-12 mb-4">
+
+                <div class="card h-100">
+
+                    <img src="img/selim-pasa.jpg" class="card-img-top" alt="Selim Sırrı Paşa Konağı">
+
+                    <div class="card-body">
+
+                        <h3 class="h5">Selim Sırrı Paşa Konağı</h3>
+
+                        <p>
+                       
+                            
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+        </div>
+
+    </section>
 
 
 </main>
