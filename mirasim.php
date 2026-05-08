@@ -37,7 +37,7 @@
 
 
 <main class="container my-5">
-<section id="kocaeli-slider" class="mb-5">
+<section id="mirasım-slider" class="mb-5">
 
         <h2>Kocaeli’nin Kültürel Mirasından Görseller</h2>
 
@@ -122,7 +122,7 @@
                
                 <article class="carousel-item">
                     
-                <a href="arkeoloji-muzesi">
+                <a href="#arkeoloji-muzesi">
                         <img src="img/arkeoloji-muzesi.jpg" class="d-block w-100 slider-img" alt="Kocaeli Arkeoloji Müzesi">
                 </a>
 
