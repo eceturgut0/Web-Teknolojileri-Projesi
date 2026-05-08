@@ -45,7 +45,7 @@
     <section class="card shadow-sm">
         <article class="card-body">
 
-            <form id="iletisimFormu" action="php/iletisimSonuc.php" method="POST">
+           <form id="iletisimFormu" action="php/iletisimSonuc.php" method="POST" onsubmit="return jsKontrolEt()">
 
                 <section class="row">
                     <article class="col-md-6 mb-3">
@@ -113,24 +113,21 @@
                     </label>
                 </article>
 
-                <section class="d-flex flex-wrap gap-2">
-                    <button type="button" class="btn btn-primary" onclick="jsKontrolEt()">
-                        JavaScript ile Kontrol Et
-                    </button>
+               <section class="d-flex flex-wrap gap-2">
 
-                    <button type="button" class="btn btn-success" @click="vueKontrolEt">
-                        Vue.js ile Kontrol Et
-                    </button>
+                <button type="submit" class="btn btn-primary">
+                  JavaScript ile Kontrol Et ve Gönder
+                </button>
 
-                    <button type="submit" class="btn btn-dark">
-                      Gönder
-                    </button>
+                <button type="button" class="btn btn-success" @click="vueKontrolEt">
+                   Vue.js ile Kontrol Et ve Gönder
+                </button>
+                
+                <button type="reset" class="btn btn-secondary">
+                     Temizle
+                </button>
 
-                    <button type="reset" class="btn btn-secondary">
-                        Temizle
-                    </button>
-                </section>
-
+                </section> 
             </form>
 
         </article>

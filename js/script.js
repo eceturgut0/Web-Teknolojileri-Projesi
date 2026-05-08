@@ -8,6 +8,11 @@ function telefonGecerliMi(telefon) {
     return telefonKurali.test(telefon);
 }
 
+function isimGecerliMi(metin) {
+    const isimKurali = /^[a-zA-ZçÇğĞıİöÖşŞüÜ\s]+$/;
+    return isimKurali.test(metin);
+}
+
 function jsKontrolEt() {
     const ad = document.getElementById("ad").value.trim();
     const soyad = document.getElementById("soyad").value.trim();
@@ -20,21 +25,26 @@ function jsKontrolEt() {
 
     if (ad === "" || soyad === "" || email === "" || telefon === "" || cinsiyet === null || konu === "" || mesaj === "" || onay === false) {
         alert("JavaScript kontrolü: Lütfen tüm alanları doldurunuz.");
-        return;
+        return false;
+    }
+
+    if (!isimGecerliMi(ad) || !isimGecerliMi(soyad)) {
+    alert("JavaScript kontrolü: Ad ve soyad alanına sadece harf giriniz.");
+    return false;
     }
 
     if (!emailGecerliMi(email)) {
         alert("JavaScript kontrolü: Lütfen geçerli bir e-posta adresi giriniz.");
-        return;
+        return false;
     }
 
     if (!telefonGecerliMi(telefon)) {
         alert("JavaScript kontrolü: Telefon alanına sadece rakam giriniz.");
-        return;
+        return false;
     }
 
     alert("JavaScript kontrolü başarılı. Form gönderiliyor.");
-    document.getElementById("iletisimFormu").submit();
+    return true;
 }
 
 if (document.getElementById("iletisimUygulamasi")) {
@@ -58,12 +68,15 @@ if (document.getElementById("iletisimUygulamasi")) {
 
         methods: {
             vueKontrolEt() {
+            
+                const cinsiyetSecili = document.querySelector('input[name="cinsiyet"]:checked');
+
                 if (
                     this.form.ad.trim() === "" ||
                     this.form.soyad.trim() === "" ||
                     this.form.email.trim() === "" ||
                     this.form.telefon.trim() === "" ||
-                    this.form.cinsiyet === "" ||
+                    cinsiyetSecili === null  ||
                     this.form.konu === "" ||
                     this.form.mesaj.trim() === "" ||
                     this.form.onay === false
@@ -71,6 +84,11 @@ if (document.getElementById("iletisimUygulamasi")) {
                     alert("Vue.js kontrolü: Lütfen tüm alanları doldurunuz.");
                     return;
                 }
+       
+                if (!isimGecerliMi(this.form.ad) || !isimGecerliMi(this.form.soyad)) {
+                alert("Vue.js kontrolü: Ad ve soyad alanına sadece harf giriniz.");
+                return;
+                } 
 
                 if (!emailGecerliMi(this.form.email)) {
                     alert("Vue.js kontrolü: Lütfen geçerli bir e-posta adresi giriniz.");
