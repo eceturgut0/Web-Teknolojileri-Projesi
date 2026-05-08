@@ -34,3 +34,153 @@
         </div>
     </nav>
 </header>
+
+
+<main class="container my-5">
+
+    <section id="cv-baslik" class="text-center mb-5">
+
+        <h1>Özgeçmişim</h1>
+
+    </section>
+
+    <section id="cv-icerik" class="mb-5">
+
+        <div class="row">
+
+            <aside class="col-md-4 mb-4">
+
+                <div class="card h-100 text-center">
+
+                    <div class="card-body">
+
+                        <img src="img/profil.jpeg" alt="Profil Fotoğrafı" class="img-fluid rounded-circle mb-3 cv-profil">
+
+                        <h2 class="h4">Ece Turgut</h2>
+
+                        <p>Bilgisayar Mühendisliği Öğrencisi</p>
+
+                        <hr>
+
+                        <h3 class="h5">Kişisel Bilgiler</h3>
+
+                        <p><strong>Şehir:</strong> Kocaeli</p>
+
+                        <p><strong>Üniversite:</strong> Sakarya Üniversitesi</p>
+
+                        <p><strong>Bölüm:</strong> Bilgisayar Mühendisliği</p>
+
+                        <hr>
+
+                        <h3 class="h5">Hakkımda</h3>
+
+                        <p>
+
+                            Teknolojiye ilgi duyan, öğrenmeye açık ve kendini yazılım alanında geliştirmek isteyen
+
+                            bir Bilgisayar Mühendisliği öğrencisiyim.
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </aside>
+
+            <section class="col-md-8">
+
+                <article class="card mb-4">
+
+                    <div class="card-body">
+
+                        <h2 class="h4">Eğitim Bilgileri</h2>
+
+                        <section class="mb-4">
+
+                            <p><strong>Sakarya Üniversitesi</strong></p>
+
+                            <p>Bilgisayar Mühendisliği</p>
+
+                            <p>2025 - Devam Ediyor</p>
+
+                            <p>
+
+                                Bilgisayar mühendisliği alanında temel programlama, web teknolojileri ve yazılım geliştirme konularında kendimi geliştirmeye çalışıyorum.
+
+                            </p>
+
+                        </section>
+
+                        <section class="mb-4">
+
+                            <p><strong>Mehmet Akif Ersoy Anadolu Lisesi</strong></p>
+
+                            <p>Sayısal</p>
+
+                            <p>2019 - 2024</p>
+
+                            <p>Lise eğitimimi sayısal alan üzerine tamamladım. 
+                            Ayrıca hazırlık sınıfında eğitim alarak İngilizce seviyemi geliştirme fırsatı buldum.</p>
+
+                        </article>
+
+                    </div>
+
+                </article>
+
+                <article class="card mb-4">
+
+                    <div class="card-body">
+
+                        <h2 class="h4">Yeteneklerim</h2>
+
+                        <span class="badge bg-primary m-1 p-2">HTML5</span>
+
+                        <span class="badge bg-primary m-1 p-2">CSS3</span>
+
+                        <span class="badge bg-primary m-1 p-2">Javascript</span>
+
+                        <span class="badge bg-primary m-1 p-2">PHP</span>
+
+                        <span class="badge bg-primary m-1 p-2">C#</span>
+
+                        <span class="badge bg-primary m-1 p-2">C++</span>
+
+                    </div>
+
+                </article>
+
+                <article class="card mb-4">
+
+                    <div class="card-body">
+
+                        <h2 class="h4">Diller</h2>
+
+                        <p><strong>Türkçe:</strong> Ana dil</p>
+
+                        <p><strong>İngilizce:</strong> Intermediate (B1) </p>
+
+                    </div>
+
+                </article>
+   
+        </div>
+
+    </section>
+
+</main>
+
+<footer class="bg-dark text-white text-center p-3">
+
+    <p class="mb-0">&copy; 2026 - Web Teknolojileri Projesi</p>
+
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
