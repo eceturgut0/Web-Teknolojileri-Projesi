@@ -24,9 +24,9 @@
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link" href="index.php">Hakkımda</a></li>
                     <li class="nav-item"><a class="nav-link active" href="ilgi-alanlarim.php">İlgi Alanlarım</a></li>
+                    <li class="nav-item"><a class="nav-link" href="cv.php">Özgeçmişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="sehrim.php">Şehrim</a></li>
                     <li class="nav-item"><a class="nav-link" href="mirasim.php">Mirasım</a></li>
-                    <li class="nav-item"><a class="nav-link" href="cv.php">Özgeçmişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="iletisim.php">İletişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
                 </ul>
@@ -112,7 +112,7 @@
 
                 <img src="img/strange-trails.jpeg" class="img-fluid mb-2">
                
-            <button class="btn btn-primary" onclick="sarkiGetir('strange trailslord huron')">
+            <button class="btn btn-primary" onclick="sarkiGetir('strange trails lord huron')">
             Strange Trails</button>
             
         </article>
@@ -121,7 +121,7 @@
 
                 <img src="img/mayhem.jpeg" class="img-fluid mb-2">
                
-            <button class="btn btn-primary" onclick="sarkiGetir('mayhemlady gaga')">
+            <button class="btn btn-primary" onclick="sarkiGetir('mayhem lady gaga')">
             Mayhem</button>
         
         </article>

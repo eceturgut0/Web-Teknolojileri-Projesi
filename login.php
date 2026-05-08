@@ -24,9 +24,9 @@
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link" href="index.php">Hakkımda</a></li>
                     <li class="nav-item"><a class="nav-link" href="ilgi-alanlarim.php">İlgi Alanlarım</a></li>
+                    <li class="nav-item"><a class="nav-link" href="cv.php">Özgeçmişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="sehrim.php">Şehrim</a></li>
                     <li class="nav-item"><a class="nav-link" href="mirasim.php">Mirasım</a></li>
-                    <li class="nav-item"><a class="nav-link" href="cv.php">Özgeçmişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="iletisim.php">İletişim</a></li>
                     <li class="nav-item"><a class="nav-link active" href="login.php">Login</a></li>
                 </ul>
@@ -46,7 +46,7 @@
 
                 <article class="mb-3">
                     <label for="email" class="form-label">Kullanıcı Adı</label>
-                    <input type="text" class="form-control" id="email" name="email" placeholder="Öğrenci e-postanızı giriniz">
+                    <input type="email" class="form-control" id="email" name="email" placeholder="Öğrenci e-postanızı giriniz">
                 </article>
 
                 <article class="mb-3">

@@ -24,9 +24,9 @@
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link" href="index.php">Hakkımda</a></li>
                     <li class="nav-item"><a class="nav-link" href="ilgi-alanlarim.php">İlgi Alanlarım</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="cv.php">Özgeçmişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="sehrim.php">Şehrim</a></li>
                     <li class="nav-item"><a class="nav-link" href="mirasim.php">Mirasım</a></li>
-                    <li class="nav-item"><a class="nav-link active" href="cv.php">Özgeçmişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="iletisim.php">İletişim</a></li>
                     <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
                 </ul>
@@ -38,25 +38,20 @@
 
 <main class="container my-5">
 
-    <section id="cv-baslik" class="text-center mb-5">
-
-        <h1>Özgeçmişim</h1>
-
+    <section id="cv-baslik" class="text-center mb-4">
+            <h1>Özgeçmişim</h1>
     </section>
 
     <section id="cv-icerik" class="mb-5">
-
         <div class="row">
 
             <aside class="col-md-4 mb-4">
-
                 <div class="card h-100 text-center">
-
                     <div class="card-body">
 
                         <img src="img/profil.jpeg" alt="Profil Fotoğrafı" class="img-fluid rounded-circle mb-3 cv-profil">
 
-                        <h2 class="h4">Ece Turgut</h2>
+                        <h2 class="h4 w-100 text-center mt-2">Ece Turgut</h2>
 
                         <p>Bilgisayar Mühendisliği Öğrencisi</p>
 
@@ -65,43 +60,34 @@
                         <h3 class="h5">Kişisel Bilgiler</h3>
 
                         <p><strong>Şehir:</strong> Kocaeli</p>
-
                         <p><strong>Üniversite:</strong> Sakarya Üniversitesi</p>
-
                         <p><strong>Bölüm:</strong> Bilgisayar Mühendisliği</p>
 
-                        <hr>
+                        <hr class="w-100">
 
                         <h3 class="h5">Hakkımda</h3>
 
                         <p>
 
                             Teknolojiye ilgi duyan, öğrenmeye açık ve kendini yazılım alanında geliştirmek isteyen
-
                             bir Bilgisayar Mühendisliği öğrencisiyim.
 
                         </p>
 
                     </div>
-
                 </div>
-
             </aside>
 
             <section class="col-md-8">
 
                 <article class="card mb-4">
-
                     <div class="card-body">
 
                         <h2 class="h4">Eğitim Bilgileri</h2>
 
                         <section class="mb-4">
-
                             <p><strong>Sakarya Üniversitesi</strong></p>
-
                             <p>Bilgisayar Mühendisliği</p>
-
                             <p>2025 - Devam Ediyor</p>
 
                             <p>
@@ -113,56 +99,42 @@
                         </section>
 
                         <section class="mb-4">
-
                             <p><strong>Mehmet Akif Ersoy Anadolu Lisesi</strong></p>
-
                             <p>Sayısal</p>
-
                             <p>2019 - 2024</p>
 
                             <p>Lise eğitimimi sayısal alan üzerine tamamladım. 
-                            Ayrıca hazırlık sınıfında eğitim alarak İngilizce seviyemi geliştirme fırsatı buldum.</p>
+                            Ayrıca hazırlık sınıfında eğitim alarak İngilizce seviyemi geliştirme fırsatı buldum.
+                            </p>
 
                         </article>
-
                     </div>
-
                 </article>
 
                 <article class="card mb-4">
-
                     <div class="card-body">
 
-                        <h2 class="h4">Yeteneklerim</h2>
-
-                        <span class="badge bg-primary m-1 p-2">HTML5</span>
-
-                        <span class="badge bg-primary m-1 p-2">CSS3</span>
-
-                        <span class="badge bg-primary m-1 p-2">Javascript</span>
-
-                        <span class="badge bg-primary m-1 p-2">PHP</span>
-
-                        <span class="badge bg-primary m-1 p-2">C#</span>
-
-                        <span class="badge bg-primary m-1 p-2">C++</span>
-
+                        <h2 class="h4 mb-3">Yeteneklerim</h2>
+                            <div class="d-flex flex-wrap gap-2">
+                        <span class="badge bg-primary p-2">HTML5</span>
+                        <span class="badge bg-primary p-2">CSS3</span>
+                        <span class="badge bg-primary p-2">Javascript</span>
+                        <span class="badge bg-primary p-2">PHP</span>
+                        <span class="badge bg-primary p-2">C#</span>
+                        <span class="badge bg-primary p-2">C++</span>
+                             </div>
                     </div>
-
                 </article>
 
                 <article class="card mb-4">
-
                     <div class="card-body">
 
                         <h2 class="h4">Diller</h2>
 
                         <p><strong>Türkçe:</strong> Ana dil</p>
-
                         <p><strong>İngilizce:</strong> Intermediate (B1) </p>
 
                     </div>
-
                 </article>
    
         </div>
