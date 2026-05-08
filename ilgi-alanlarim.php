@@ -37,7 +37,7 @@
 
 <main class="container my-5">
 
-   <section id="hobilerim" class="mb-5">
+   <section id="hobilerim-ilgi-alanları-sayfası" class="mb-5">
      <h1>Hobilerim</h1>
      <div class="row mt-4"> 
                     

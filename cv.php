@@ -63,17 +63,12 @@
                         <p><strong>Üniversite:</strong> Sakarya Üniversitesi</p>
                         <p><strong>Bölüm:</strong> Bilgisayar Mühendisliği</p>
 
-                        <hr class="w-100">
+                        <hr>
+                        
+                        <h3 class="h5">İletişim</h3>
+                           <p><strong>E-posta:</strong> eceturgut06@gmail.com</p>
 
-                        <h3 class="h5">Hakkımda</h3>
-
-                        <p>
-
-                            Teknolojiye ilgi duyan, öğrenmeye açık ve kendini yazılım alanında geliştirmek isteyen
-                            bir Bilgisayar Mühendisliği öğrencisiyim.
-
-                        </p>
-
+                        <hr>
                     </div>
                 </div>
             </aside>
@@ -91,9 +86,7 @@
                             <p>2025 - Devam Ediyor</p>
 
                             <p>
-
                                 Bilgisayar mühendisliği alanında temel programlama, web teknolojileri ve yazılım geliştirme konularında kendimi geliştirmeye çalışıyorum.
-
                             </p>
 
                         </section>
@@ -103,14 +96,13 @@
                             <p>Sayısal</p>
                             <p>2019 - 2024</p>
 
-                            <p>Lise eğitimimi sayısal alan üzerine tamamladım. 
-                            Ayrıca hazırlık sınıfında eğitim alarak İngilizce seviyemi geliştirme fırsatı buldum.
-                            </p>
-
-                        </article>
+                            <p>
+                                Lise eğitimimi sayısal alan üzerine tamamladım. Ayrıca hazırlık sınıfında eğitim alarak İngilizce seviyemi geliştirme fırsatı buldum.
+                            </p>  
+                        </section>
                     </div>
                 </article>
-
+        </section>
                 <article class="card mb-4">
                     <div class="card-body">
 

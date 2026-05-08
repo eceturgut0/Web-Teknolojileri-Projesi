@@ -43,8 +43,7 @@
                     
                     <p class="lead"> Sakarya Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim. </p>
                     <p>
-                        Merhaba, ben Ece Turgut. Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Web Teknolojileri dersi kapsamında 
-                        hazırladığım bu kişisel web sitesinde kendimi, eğitim bilgilerimi, büyüdüğüm şehri, ilgi alanlarımı ve iletişim bilgilerimi 
+                        Web Teknolojileri dersi kapsamında hazırladığım bu kişisel web sitesinde kendimi, eğitim bilgilerimi, büyüdüğüm şehri, ilgi alanlarımı ve iletişim bilgilerimi 
                         tanıtmayı amaçlıyorum.
                     </p>
                     <p> Yazılım geliştirme, web tasarımı ve yeni teknolojiler üzerine çalışarak Bilgisayar Mühendisliği alanında kendimi geliştirmek istiyorum.
@@ -97,7 +96,7 @@
                          <div class="card-body">
                             <h3 class="card-title h5">Hikayeler Yazmak</h3>
                             <p class="card-text">
-                                Boş zamanlarımda kafamda hikayeler kurgulayıp parça parça yazıya dökerim. Halihazırda kitap okumayı da çok sevdiğim için zamanla yazmak benim için hobiye dönüştü.
+                                Boş zamanlarımda kafamda hikayeler kurgulayıp parça parça yazıya dökerim. Kitap okumayı da çok sevdiğimden yazmak zamanla benim için alışkanlığa dönüştü.
                          </p>
                     </div>
                 </div>

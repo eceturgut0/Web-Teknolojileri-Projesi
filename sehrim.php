@@ -69,7 +69,7 @@
 
     </section>
 
-    <section id="kocaeli-slider" class="mb-5">
+    <section id="şehrim-slider" class="mb-5">
 
         <h2>Kocaeli’den Görseller</h2>
 
@@ -199,13 +199,13 @@
                 
                 <article class="carousel-item">
                     
-                <a href="#karamursel-sahil">
-                        <img src="img/karamursel-sahil.jpg" class="d-block w-100 slider-img" alt="Karamürsel Sahil">
+                <a href="#karamursel-kordon">
+                        <img src="img/karamursel-kordon.jpg" class="d-block w-100 slider-img" alt="Karamürsel Kordon">
                 </a>
 
                     <div class="carousel-caption d-none d-md-block">
 
-                        <h3>Karamürsel Sahil</h3>
+                        <h3>Karamürsel Kordon</h3>
 
                     </div>
 
@@ -415,15 +415,15 @@
             </article>
 
             
-            <article id="karamursel-sahil" class="col-12 mb-4">
+            <article id="karamursel-kordon" class="col-12 mb-4">
 
                 <div class="card h-100">
 
-                    <img src="img/karamursel-sahil.jpg" class="card-img-top" alt="Karamürsel Sahil">
+                    <img src="img/karamursel-kordon.jpg" class="card-img-top" alt="Karamürsel Kordon">
 
                     <div class="card-body">
 
-                        <h3 class="h5">Karamürsel Sahil</h3>
+                        <h3 class="h5">Karamürsel Kordon</h3>
 
                         <p>
                         Karamürsel Sahili, Kocaeli’nin en güzel sahil bölgelerinden biridir. 
