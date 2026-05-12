@@ -26,7 +26,7 @@ if ($email === $dogruMail && $sifre === $dogruNo) {
     <section class="alert alert-success text-center">
         <h1>Hoşgeldiniz <?php echo htmlspecialchars($dogruNo); ?></h1>
         <p>Giriş işlemi başarılı.</p>
-        <a href="../index.php" class="btn btn-dark mt-3">Ana Sayfaya Dön</a>
+        <a href="../login.php" class="btn btn-dark mt-3">Ana Sayfaya Dön</a>
     </section>
 
 </main>
@@ -37,7 +37,7 @@ if ($email === $dogruMail && $sifre === $dogruNo) {
 <?php
 } else {
     
-    header("Location: ../login.php");
+    header("Location: ../login.php?hata=1");
     exit();
 }
 ?>

@@ -42,7 +42,19 @@
 
             <h2 class="mb-4 text-center">Giriş Yap</h2>
 
-            <form action="php/loginKontrol.php" method="POST" onsubmit="return loginKontrol()">
+            <?php if (isset($_GET["hata"])): ?>
+                <div class="alert alert-danger text-center">
+                    Kullanıcı adı veya şifre hatalı!
+                </div>
+               <?php endif; ?>
+
+            <?php if (isset($_GET["bos"])): ?>
+                <div class="alert alert-warning text-center">
+                    Lütfen tüm alanları doldurunuz!
+                </div>
+            <?php endif; ?>
+            
+        <form action="php/loginKontrol.php" method="POST" onsubmit="return loginKontrol()">
 
                 <article class="mb-3">
                     <label for="email" class="form-label">Kullanıcı Adı</label>
