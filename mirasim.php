@@ -53,9 +53,7 @@
                 <button type="button" data-bs-target="#mirasimSlider" data-bs-slide-to="3"></button>
                 <button type="button" data-bs-target="#mirasimSlider" data-bs-slide-to="4"></button>
                 <button type="button" data-bs-target="#mirasimSlider" data-bs-slide-to="5"></button>
-                <button type="button" data-bs-target="#mirasimSlider" data-bs-slide-to="6"></button>
-                <button type="button" data-bs-target="#mirasimSlider" data-bs-slide-to="7"></button>
-
+                
             </div>
 
 <div class="carousel-inner rounded shadow">
@@ -89,21 +87,6 @@
 
                 </article>
 
-
-                <article class="carousel-item">
-                    
-                <a href="#saat-kulesi">
-                        <img src="img/saat-kulesi.jpeg" class="d-block w-100 slider-img" alt="İzmit Saat Kulesi">
-                </a>
-
-                    <div class="carousel-caption d-none d-md-block">
-
-                        <h3>İzmit Saat Kulesi</h3>
-
-                    </div>
-
-                </article>
-               
                 
                 <article class="carousel-item">
                     
@@ -150,20 +133,6 @@
                 </article>
 
                 
-                <article class="carousel-item">
-                    
-                <a href="#mustafa-pasa">
-                        <img src="img/mustafa-pasa.jpg" class="d-block w-100 slider-img" alt="Çoban Mustafa Paşa Külliyesi">
-                </a>
-
-                    <div class="carousel-caption d-none d-md-block">
-
-                        <h3>Çoban Mustafa Paşa Külliyesi</h3>
-
-                    </div>
-
-                </article>
-
                 
                 <article class="carousel-item">
                     
@@ -260,32 +229,6 @@
             </article>
 
             
-            <article id="saat-kulesi" class="col-12 mb-4">
-
-                <div class="card h-100">
-
-                    <img src="img/saat-kulesi.jpeg" class="card-img-top" alt="İzmit Saat Kulesi">
-
-                    <div class="card-body">
-
-                        <h3 class="h5">İzmit Saat Kulesi</h3>
-
-                        <p>
-                       İzmit Saat Kulesi, Kocaeli’nin simgelerinden biri olan önemli tarihî yapılardan biridir. 
-                       Osmanlı döneminde Sultan II. Abdülhamid’in tahta çıkışının anısına yaptırılan kule, 1901 yılında inşa edilmiştir. 
-                       İzmit’te yüksek bir konumda bulunan yapı, hem şehir manzarası hem de deniz görünümüyle dikkat çekmektedir. 
-                       Tarihî yapısı sayesinde Kocaeli’nin en çok ziyaret edilen turistik noktalarından biri hâline gelmiştir.
-                       Saat Kulesi, taş mimarisi ve zarif tasarımıyla Osmanlı dönemi mimarisinin güzel örneklerinden biri olarak görülmektedir. 
-                       Dört katlı yapıya sahip olan kule, ince detaylarla süslenmiş olup estetik görünümüyle dikkat çekmektedir. 
-                       Günümüzde hem turistlerin hem de şehir halkının sıkça ziyaret ettiği bu yapı, Kocaeli’nin tarihî ve kültürel mirasını yansıtan önemli eserlerden biridir.
-                        </p>
-
-                    </div>
-
-                </div>
-
-            </article>
-
              
             <article id="seka-kagit" class="col-12 mb-4">
 
@@ -366,32 +309,6 @@
             </article>
 
             
-            <article id="mustafa-pasa" class="col-12 mb-4">
-
-                <div class="card h-100">
-
-                    <img src="img/mustafa-pasa.jpg" class="card-img-top" alt="Çoban Mustafa Paşa Külliyesi">
-
-                    <div class="card-body">
-
-                        <h3 class="h5">Çoban Mustafa Paşa Külliyesi</h3>
-
-                        <p>
-                        Çoban Mustafa Paşa Külliyesi, Kocaeli’nin Gebze ilçesinde bulunan Osmanlı dönemine ait önemli tarihî yapılardan biridir. 
-                        16. yüzyılda yaptırılan külliye, Osmanlı mimarisinin dikkat çekici eserleri arasında yer almaktadır. 
-                        Yapı içerisinde cami, medrese, türbe, hamam, imaret ve kervansaray gibi farklı bölümler bulunmaktadır. 
-                        Bu özellikleri sayesinde külliye, geçmişte hem ibadet hem eğitim hem de sosyal yardım amacıyla kullanılan önemli bir merkez olmuştur.
-                        Külliyenin en dikkat çeken bölümlerinden biri Çoban Mustafa Paşa Camii’dir. 
-                        Taş işçiliği, süslemeleri ve mimari detaylarıyla Osmanlı sanatının güzel örneklerinden biri olarak görülmektedir. 
-                        Günümüzde tarihî ve kültürel değeri nedeniyle birçok ziyaretçinin ilgisini çeken külliye, Kocaeli’nin önemli kültürel mirasları arasında yer almaktadır.
-                        </p>
-
-                    </div>
-
-                </div>
-
-            </article>
-
             
             <article id="selim-pasa" class="col-12 mb-4">
 

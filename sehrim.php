@@ -85,8 +85,6 @@
                 <button type="button" data-bs-target="#sehrimSlider" data-bs-slide-to="3"></button>
                 <button type="button" data-bs-target="#sehrimSlider" data-bs-slide-to="4"></button>
                 <button type="button" data-bs-target="#sehrimSlider" data-bs-slide-to="5"></button>
-                <button type="button" data-bs-target="#sehrimSlider" data-bs-slide-to="6"></button>
-                <button type="button" data-bs-target="#sehrimSlider" data-bs-slide-to="7"></button>
 
             </div>
 
@@ -169,21 +167,6 @@
                 
                 <article class="carousel-item">
                     
-                <a href="#yuvacik-baraji">
-                        <img src="img/yuvacik-baraji.jpg" class="d-block w-100 slider-img" alt="Yuvacık Barajı">
-                </a>
-
-                    <div class="carousel-caption d-none d-md-block">
-
-                        <h3>Yuvacık Barajı</h3>
-
-                    </div>
-
-                </article>
-
-                
-                <article class="carousel-item">
-                    
                 <a href="#kapanca">
                         <img src="img/kapanca.jpg" class="d-block w-100 slider-img" alt="Tarihi Kapanca Sokak">
                 </a>
@@ -197,20 +180,6 @@
                 </article>
 
                 
-                <article class="carousel-item">
-                    
-                <a href="#karamursel-kordon">
-                        <img src="img/karamursel-kordon.jpg" class="d-block w-100 slider-img" alt="Karamürsel Kordon">
-                </a>
-
-                    <div class="carousel-caption d-none d-md-block">
-
-                        <h3>Karamürsel Kordon</h3>
-
-                    </div>
-
-                </article>
-
             </div>
 
             
@@ -364,31 +333,6 @@
             </article>
 
             
-            <article id="yuvacik-baraji" class="col-12 mb-4">
-
-                <div class="card h-100">
-
-                    <img src="img/yuvacik-baraji.jpg" class="card-img-top" alt="Yuvacık Barajı">
-
-                    <div class="card-body">
-
-                        <h3 class="h5">Yuvacık Barajı</h3>
-
-                        <p>
-                        Yuvacık Barajı, Kocaeli’nin doğal güzellikleriyle öne çıkan önemli yerlerinden biridir. 
-                        Şehrin su ihtiyacını karşılamak amacıyla yapılan baraj, aynı zamanda doğayla iç içe vakit geçirmek isteyen insanların sıkça ziyaret ettiği bir bölgedir. 
-                        Etrafındaki ormanlık alanlar, temiz havası ve sakin manzarası sayesinde özellikle hafta sonlarında ilgi görmektedir. 
-                        Doğa yürüyüşü, piknik ve fotoğrafçılık gibi etkinlikler için uygun bir ortam sunan Yuvacık Barajı, Kocaeli’nin en sevilen doğal alanlarından biri olarak bilinmektedir.
-                           
-
-                        </p>
-
-                    </div>
-
-                </div>
-
-            </article>
-
             
             <article id="kapanca" class="col-12 mb-4">
 
@@ -414,32 +358,7 @@
 
             </article>
 
-            
-            <article id="karamursel-kordon" class="col-12 mb-4">
-
-                <div class="card h-100">
-
-                    <img src="img/karamursel-kordon.jpg" class="card-img-top" alt="Karamürsel Kordon">
-
-                    <div class="card-body">
-
-                        <h3 class="h5">Karamürsel Kordon</h3>
-
-                        <p>
-                        Karamürsel Sahili, Kocaeli’nin en güzel sahil bölgelerinden biridir. 
-                        Deniz manzarası, yürüyüş yolları ve dinlenme alanlarıyla hem şehir halkının hem de ziyaretçilerin sıkça tercih ettiği bir yerdir. 
-                        Özellikle gün batımında oluşan manzara dikkat çekmektedir. 
-                        Sahil boyunca bulunan kafeler ve sosyal alanlar sayesinde insanlar burada keyifli vakit geçirebilmektedir.
-                            
-
-                        </p>
-
-                    </div>
-
-                </div>
-
-            </article>
-
+           
         </div>
 
     </section>
